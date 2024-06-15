@@ -4,9 +4,6 @@ This is a project I did building a temperature converter. Here is the link https
 
 ![image](https://github.com/eganiard/tempconverter.github.io/assets/166179103/1202c0a2-a03b-464d-b99d-8a320270cb78)
 
-
-![image](https://github.com/eganiard/tempconverter.github.io/assets/166179103/0cd1842d-5347-4367-b9b6-384a42614f57)
-
 I had fun doing this project. It was fairly hard to figure out what was going wrong with the code at first but I got around to it in the end. I learned a lot from this exercise and I hope to improve my skills in programming and making repositories.
 
 Heres also a Qrcode that can take you to the site from a mobile aswell. 
